@@ -1765,7 +1765,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #1447ff;
+  background: #836b82;
 }
 .feed-link,
 .chat {
@@ -2416,7 +2416,7 @@ ul.breadcrumb li+li:last-child {
   box-sizing: border-box;
   padding: 40px;
   width: calc(100% - 252px);
-  background: rgba(255,255,255,0.7);
+  background: rgba(255,255,255,0.9);
   min-height: 700px;
   box-shadow: initial;
   border-radius: initial;
